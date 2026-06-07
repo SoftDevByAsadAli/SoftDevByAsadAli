@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=✨+WELCOME+TO+MY+WORLD+✨;🚀+POWERED+BY+CREATIVITY+🚀;💎+CRAFTED+BY+ASAD+ALI+💎;🌟+BUILDING+THE+FUTURE+WITH+CODE+🌟" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=2500&pause=1000&color=black&center=true&vCenter=true&width=1000&lines=✨+WELCOME+TO+MY+WORLD+✨;🚀+POWERED+BY+CREATIVITY+🚀;💎+CRAFTED+BY+ASAD+ALI+💎;🌟+BUILDING+THE+FUTURE+WITH+CODE+🌟" />
 </p>
 
 # 💫 Hi 👋, I'm ASAD ALI
